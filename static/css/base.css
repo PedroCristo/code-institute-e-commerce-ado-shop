@@ -3,11 +3,11 @@ html {
 }
 
 body {
-    background: url('/media/homepage_background_cropped.jpg') no-repeat center center fixed;
+    background: url('/static/media/homepage_background_cropped.jpg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
-    color: red;
-    font-family: 'Lato';
+    color: #555;
+    font-family: 'Lato', sans-serif;
 }
 
 /* from Bulma */
@@ -21,7 +21,6 @@ body {
 
 .logo-font {
     text-transform: uppercase;
-    color: red !important;
 }
 
 .main-logo-link {
