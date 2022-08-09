@@ -102,6 +102,12 @@ a.category-badge > span.badge:hover {
     cursor: pointer;
 }
 
+/* ------------------------------- log system */
+
+.log-container {
+    margin-top: 200px;
+    padding: 25px;
+}
 /* ------------------------------- bootstrap toasts */
 
 .message-container {
@@ -204,4 +210,4 @@ a.category-badge > span.badge:hover {
         height: calc(100vh - 116px);
     }
 }
-Footer
+
